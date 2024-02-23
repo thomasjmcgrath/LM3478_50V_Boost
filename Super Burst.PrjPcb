@@ -84,6 +84,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYJUNBEA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Super Burst\Design Rule Check - 50VBoost.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
